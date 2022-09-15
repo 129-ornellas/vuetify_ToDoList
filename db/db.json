@@ -1,0 +1,58 @@
+{
+  "user": [
+    {
+      "name": "Gelo",
+      "email": "brabo@buser.com",
+      "passWord": "123456",
+      "id": "1"
+    },
+    {
+      "name": "isabella",
+      "email": "tchutchuca@gmail.com",
+      "passWord": "123456",
+      "id": "cFUUj5T"
+    },
+    {
+      "name": "asdasd",
+      "email": "as@a.com",
+      "passWord": "asdasda",
+      "id": "31Cjfvw"
+    },
+    {
+      "name": "luquinhas banco de bancos",
+      "email": "banco@bancos.banco",
+      "passWord": "bancodedados",
+      "id": "unqurPA"
+    },
+    {
+      "name": "asdasdasd",
+      "email": "assd@ad.com",
+      "passWord": "123456",
+      "id": "H08m2d-"
+    },
+    {
+      "name": "Luna",
+      "email": "luna@cachorrinho.com",
+      "passWord": "auauau",
+      "id": "iMQQ-Vd"
+    },
+    {
+      "name": "teste",
+      "email": "teste@a.com",
+      "passWord": "asdasd",
+      "id": "a5Wvszl"
+    },
+    {
+      "name": "",
+      "email": "",
+      "passWord": "",
+      "id": "WM0wbvS"
+    },
+    {
+      "name": "",
+      "email": "",
+      "passWord": "",
+      "id": "75_k_Vc"
+    }
+  ]
+}
